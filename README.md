@@ -75,8 +75,8 @@ Location-based civic complaint management platform.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: www.linkedin.com/in/badavath-sandeep-3863a22b1
+- Email: sandeepbadavath3@gmail.com
 
 ---
 
