@@ -61,29 +61,19 @@ Location-based civic complaint management platform.
 
 ---
 
-## 📊 GitHub Statistics
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sandeep8689&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Activity"
-  />
+  <img src="https://github-stats-extended.vercel.app/api?username=sandeep8689&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Activity" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep8689&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sandeep8689&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep8689&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=sandeep8689&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
